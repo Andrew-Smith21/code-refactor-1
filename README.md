@@ -10,3 +10,5 @@ Refactor starter code to improve accessibility so that the website is optimized 
 ## Website
 https://andrew-smith21.github.io/code-refactor-1/
 
+## Screenshot
+
