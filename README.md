@@ -1,7 +1,5 @@
 # Horiseon Code Refactor
 
-
-## Screenshot
 ![Horiseon Screenshot](/assets/images/horiseon-screenshot.jpg?raw=true)
 
 ## Assignment
